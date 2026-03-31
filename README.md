@@ -1,7 +1,7 @@
 
 # FloraVera
 
-FloraVera — flowers and gifts with a mood,
+FloraVera — flowers and gifts with a mood, <br>
 Bouquets and gifts for important moments — go ahead and choose what says the most.
 
 # Live Preview
